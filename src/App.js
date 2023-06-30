@@ -14,10 +14,10 @@ function App() {
       alt="logo" />
    </header>
    <main>
-    <Dictionary />
+    <Dictionary defaultKeyword="stars"/>
    </main>
    <footer className="App-footer">
-<small>Coded by Tamara Jakimovska</small>
+<small>Coded by <a href="https://www.linkedin.com/in/tamara-jakimovska-869211240/" >Tamara Jakimovska </a></small>
    </footer>
     </div>
     </div>
