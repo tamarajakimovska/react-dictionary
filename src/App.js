@@ -17,7 +17,7 @@ function App() {
     <Dictionary defaultKeyword="stars"/>
    </main>
    <footer className="App-footer">
-<small>Coded by <a href="https://www.linkedin.com/in/tamara-jakimovska-869211240/" >Tamara Jakimovska </a></small>
+<small>Coded by <a href="https://www.linkedin.com/in/tamara-jakimovska-869211240/" rel="norefferer" >Tamara Jakimovska </a></small>
    </footer>
     </div>
     </div>
