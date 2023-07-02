@@ -12,8 +12,7 @@ function App() {
       <img src={logo}
       className="App-logo img-fluid"
       alt="logo" 
-      rel="noreferrer"
-      />
+      rel="noreferrer"/>
    </header>
    <main>
     <Dictionary defaultKeyword="stars"/>
