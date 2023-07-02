@@ -11,7 +11,9 @@ function App() {
     <header className="App-header">
       <img src={logo}
       className="App-logo img-fluid"
-      alt="logo" />
+      alt="logo" 
+      rel="noreferrer"
+      />
    </header>
    <main>
     <Dictionary defaultKeyword="stars"/>
